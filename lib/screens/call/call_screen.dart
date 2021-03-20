@@ -76,7 +76,7 @@ class _CallScreenState extends State<CallScreen> {
     return Container();
   }
 
-  /// Toolbar layout
+  // Toolbar layout
   Widget _toolbar(CallNotifier notifier) {
     //if (widget.role == ClientRole.Audience) return Container();
     return Container(
