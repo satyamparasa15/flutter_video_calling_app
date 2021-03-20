@@ -13,13 +13,14 @@ These are the following modules we are going to implement in this article
 
 # Output:
 <p align="center">
- <img src="https://www.flutterant.com/wp-content/uploads/2021/03/ezgif.com-video-to-gif2.gif">
+ <img src="https://github.com/satyamparasa15/flutter_video_calling_app/blob/master/lib/output/output.gif" width="350" height ="800">
 </p>
 
-![](https://www.flutterant.com/wp-content/uploads/2021/03/ezgif.com-video-to-gif2.gif)
-
-![](https://www.flutterant.com/wp-content/uploads/2021/03/ezgif.com-video-to-gif2.gif)
-
+# For complete tutorial 
+ Please follow this [link](https://www.flutterant.com/implementation-of-video-calling-in-flutter-apps/) for complete tutorial 
+ 
+ # Reference
+ For more information about Agora SDK [link](https://docs.agora.io/en/Video/landing-page?platform=Flutter)
 
 This project is a starting point for a Flutter application.
 
